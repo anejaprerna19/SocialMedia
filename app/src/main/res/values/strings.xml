@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SocMedia</string>
+    <string name="facebook_app_id">217483773383053</string>
+    <string name="fb_login_protocol_scheme">fb217483773383053</string>
+
 </resources>
