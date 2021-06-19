@@ -93,7 +93,7 @@ public class gmailProfile extends AppCompatActivity implements GoogleApiClient.O
             @Override
             public void onClick(View view) {
                 AlertDialog.Builder builder_exitbutton = new AlertDialog.Builder(gmailProfile.this);
-                builder_exitbutton.setTitle("Do you want to logout?")
+                builder_exitbutton.setTitle("Really logout?")
                         .setMessage("Are you sure ?")
                         .setPositiveButton("yes", new DialogInterface.OnClickListener() {
                             @Override
